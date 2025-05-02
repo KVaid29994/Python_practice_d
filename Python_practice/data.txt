@@ -1,0 +1,1 @@
+my name is Kashish, and I am practicing python try and except concepts
